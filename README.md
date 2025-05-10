@@ -5,7 +5,6 @@
 - 📫 You can reach me at goulavineethkumarreddy@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: Antarctica is a desert.
-- ⚡⚡ Your brain is constantly eating itself.
 
 <!---
 GoulaVineethKumarReddy/GoulaVineethKumarReddy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
